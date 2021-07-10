@@ -1,0 +1,10 @@
+{
+    "loginUser" : "",
+    "loginPass" : "",
+    "sendToUser" : "",
+    "website" : "https://m.mangabat.com/manga-list-all", 
+    "mangaTitles" : [
+        "title1",
+        "title2
+    ]
+}
