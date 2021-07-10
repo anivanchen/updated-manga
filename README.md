@@ -17,3 +17,12 @@ Sample:
     ]
 }
 ```
+
+## How To Run
+
+In the console: `npm start`
+
+In docker: 
+
+- `docker build -t updatedmanga`
+- `docker run updatedmanga`
