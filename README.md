@@ -4,8 +4,6 @@ A web scraper bot built on Cheerio, Axios, and NodeMailer to check for updated m
 Create a constants.json file in /src before running. 
 
 ```
-Sample: 
-
 {
     "loginUser" : "",
     "loginPass" : "",
