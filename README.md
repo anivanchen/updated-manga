@@ -16,13 +16,17 @@ Edit the constants.json file in /src before running.
 }
 ```
 
-## How To Run
+## Instructions
 
-In the console: `npm start`
+### Console
 
-In Heroku: Fork this repository, connect the forked repository to Heroku via the Heroku app, and deploy.
+- `npm start`
 
-In Docker:
+# Heroku 
+
+- Fork this repository, connect the forked repository to Heroku via the Heroku app, and deploy.
+
+# Docker
 
 - `docker build -t updatedmanga`
 - `docker run updatedmanga`
