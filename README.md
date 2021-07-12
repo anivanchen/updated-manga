@@ -22,11 +22,11 @@ Edit the constants.json file in /src before running.
 
 - `npm start`
 
-# Heroku 
+### Heroku 
 
 - Fork this repository, connect the forked repository to Heroku via the Heroku app, and deploy.
 
-# Docker
+### Docker
 
 - `docker build -t updatedmanga`
 - `docker run updatedmanga`
