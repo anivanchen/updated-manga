@@ -1,4 +1,7 @@
 # updated-manga
+
+![](https://img.shields.io/github/license/anivanchen/updated-manga?color=brightgreen&style=for-the-badge)
+
 A web scraper bot built on Cheerio, Axios, and NodeMailer to check for updated manga.
 
 Edit the constants.json file in /src before running.
